@@ -2,7 +2,7 @@
 NYU Tandon, ECE-GY 9143: High Performance Machine Learning, End Semester Project
 
 ## Project:
-Optimize the process of domain adaptation in natural language processing, i.e., fine-tuning large language models for a particular domain on limited hardware . This is done by using 8-bit quantization, LoRA and other techniques.
+Optimize the process of domain adaptation in natural language processing, i.e., fine-tuning large language models for a particular domain on limited hardware . This is done by using 8-bit quantization, LoRA and other niche techniques.
 
 ## Repoitory:
 - Fine_Tuning.ipynb: Main notebook for training and evaluation
